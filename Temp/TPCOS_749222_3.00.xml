@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution solutionVersion="1.0.0.0" productVersion="11.0.6565" PIVersion="1.0.0.0" href=$PATH name=$FILENAME ?>
+<?mso-application progid="InfoPath.Document"?>
+<my:MyFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:d="http://schemas.microsoft.com/office/infopath/2003/ado/dataFields" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:xdEnvironment="http://schemas.microsoft.com/office/infopath/2006/xslt/environment" xmlns:xdUser="http://schemas.microsoft.com/office/infopath/2006/xslt/User" xmlns:xsf2="http://schemas.microsoft.com/office/infopath/2006/solutionDefinition/extensions" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2007-03-09T08:21:13" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="fr">
+<my:System>
+<my:SystemEnvironment>JUATE</my:SystemEnvironment>
+<my:SystemSentByName>AMS</my:SystemSentByName>
+<my:SystemSentByCode>99999870</my:SystemSentByCode>
+<my:SystemSentByDate>07/05/18</my:SystemSentByDate>
+<my:SystemSentByTime>16:07:44</my:SystemSentByTime>
+</my:System>
+<my:Header>
+<my:HeaderDocumentNumber>749222</my:HeaderDocumentNumber>
+<my:HeaderDocumentType>SE</my:HeaderDocumentType>
+<my:HeaderDocumentTypeDescription>Service Order - no contract</my:HeaderDocumentTypeDescription>
+<my:HeaderCompany>01300</my:HeaderCompany>
+<my:HeaderServiceType>Y</my:HeaderServiceType>
+<my:HeaderServiceTypeDescription>On-site Repair</my:HeaderServiceTypeDescription>
+<my:HeaderCustomerNumber>931193</my:HeaderCustomerNumber>
+<my:HeaderCustomerName>Gribskov Kommune</my:HeaderCustomerName>
+<my:HeaderCustomerAddressADD1>Rådhusvej 3</my:HeaderCustomerAddressADD1>
+<my:HeaderCustomerAddressADD2>Postboks 10</my:HeaderCustomerAddressADD2>
+<my:HeaderCustomerAddressADD3></my:HeaderCustomerAddressADD3>
+<my:HeaderCustomerAddressADD4></my:HeaderCustomerAddressADD4>
+<my:HeaderCustomerAddressADD5>Helsinge   3200</my:HeaderCustomerAddressADD5>
+<my:HeaderCustomerAddressZIP>3200</my:HeaderCustomerAddressZIP>
+<my:HeaderCustomerAddressCity>Helsinge</my:HeaderCustomerAddressCity>
+<my:HeaderCustomerAddressCountry>DK</my:HeaderCustomerAddressCountry>
+<my:HeaderCustomerAddressCounty></my:HeaderCustomerAddressCounty>
+<my:HeaderCustomerLanguage>DN</my:HeaderCustomerLanguage>
+<my:HeaderSiteNumber>1288875</my:HeaderSiteNumber>
+<my:HeaderSiteName>Bjørnehøjskolen</my:HeaderSiteName>
+<my:HeaderSiteAddressADD1>Thorsmosevej 18</my:HeaderSiteAddressADD1>
+<my:HeaderSiteAddressADD2></my:HeaderSiteAddressADD2>
+<my:HeaderSiteAddressADD3></my:HeaderSiteAddressADD3>
+<my:HeaderSiteAddressADD4></my:HeaderSiteAddressADD4>
+<my:HeaderSiteAddressADD5>Helsinge   3200</my:HeaderSiteAddressADD5>
+<my:HeaderSiteAddressZIP>3200</my:HeaderSiteAddressZIP>
+<my:HeaderSiteAddressCity>Helsinge</my:HeaderSiteAddressCity>
+<my:HeaderSiteAddressCountry>DK</my:HeaderSiteAddressCountry>
+<my:HeaderSiteAddressCounty></my:HeaderSiteAddressCounty>
+<my:HeaderSiteAttachment></my:HeaderSiteAttachment>
+<my:HeaderSiteLanguage>DN</my:HeaderSiteLanguage>
+<my:HeaderCC01></my:HeaderCC01>
+<my:HeaderCC02></my:HeaderCC02>
+<my:HeaderCC03></my:HeaderCC03>
+<my:HeaderCC04></my:HeaderCC04>
+<my:HeaderCC05></my:HeaderCC05>
+<my:HeaderCC06></my:HeaderCC06>
+<my:HeaderCC07></my:HeaderCC07>
+<my:HeaderCC08></my:HeaderCC08>
+<my:HeaderCC09></my:HeaderCC09>
+<my:HeaderCC10></my:HeaderCC10>
+<my:HeaderCC01Description>                             .</my:HeaderCC01Description>
+<my:HeaderCC02Description>                             .</my:HeaderCC02Description>
+<my:HeaderCC03Description>.</my:HeaderCC03Description>
+<my:HeaderCC04Description>                             .</my:HeaderCC04Description>
+<my:HeaderCC05Description>                             .</my:HeaderCC05Description>
+<my:HeaderCC06Description>                             .</my:HeaderCC06Description>
+<my:HeaderCC07Description>                             .</my:HeaderCC07Description>
+<my:HeaderCC08Description>                             .</my:HeaderCC08Description>
+<my:HeaderCC09Description>                             .</my:HeaderCC09Description>
+<my:HeaderCC10Description>                             .</my:HeaderCC10Description>
+<my:HeaderCustomerOrder></my:HeaderCustomerOrder>
+<my:HeaderCallNumber>0</my:HeaderCallNumber>
+<my:HeaderCallAttachment></my:HeaderCallAttachment>
+<my:HeaderOrderDescription>On-site Repair</my:HeaderOrderDescription>
+<my:HeaderSymptom>ON-SITE REPAIR</my:HeaderSymptom>
+<my:HeaderOrderAttachment></my:HeaderOrderAttachment>
+</my:Header>
+<my:Contact>
+<my:ContactName>BRIAN CHRISTENSEN</my:ContactName>
+<my:ContactPhone>+4572496928</my:ContactPhone>
+<my:ContactFax></my:ContactFax>
+<my:ContactEmail>bbchr@gribskov.dk</my:ContactEmail>
+</my:Contact>
+<my:WhoswhoContacts>
+<my:WhoswhoContact>
+<my:WhoswhoContactTitle></my:WhoswhoContactTitle>
+<my:WhoswhoContactName>Bjørnehøjskolen</my:WhoswhoContactName>
+<my:WhoswhoContactPhone></my:WhoswhoContactPhone>
+<my:WhoswhoContactMobile></my:WhoswhoContactMobile>
+<my:WhoswhoContactFax></my:WhoswhoContactFax>
+<my:WhoswhoContactEmail></my:WhoswhoContactEmail>
+</my:WhoswhoContact>
+<my:WhoswhoContact>
+<my:WhoswhoContactTitle></my:WhoswhoContactTitle>
+<my:WhoswhoContactName>BRIAN CHRISTENSEN</my:WhoswhoContactName>
+<my:WhoswhoContactPhone></my:WhoswhoContactPhone>
+<my:WhoswhoContactMobile></my:WhoswhoContactMobile>
+<my:WhoswhoContactFax></my:WhoswhoContactFax>
+<my:WhoswhoContactEmail>bbchr@gribskov.dk</my:WhoswhoContactEmail>
+</my:WhoswhoContact>
+</my:WhoswhoContacts>
+<my:Contract>
+<my:ContractNumber>0</my:ContractNumber>
+<my:ContractType></my:ContractType>
+<my:ContractVersion></my:ContractVersion>
+<my:ContractServicePackage></my:ContractServicePackage>
+<my:ContractServicePackageDescription></my:ContractServicePackageDescription>
+<my:ContractCoverageGroup></my:ContractCoverageGroup>
+<my:ContractCoverageGroupDescription>.</my:ContractCoverageGroupDescription>
+<my:ContractLineType>S</my:ContractLineType>
+<my:ContractLineTypeDescription>Stock Inventory Item</my:ContractLineTypeDescription>
+<my:ContractStatus></my:ContractStatus>
+<my:ContractStatusDescription></my:ContractStatusDescription>
+<my:ContractCoverageStartDate></my:ContractCoverageStartDate>
+<my:ContractCoverageEndDate></my:ContractCoverageEndDate>
+<my:ContractTotalAmount>0.00</my:ContractTotalAmount>
+</my:Contract>
+<my:Attachments>
+</my:Attachments>
+<my:Instruction>
+<my:InstructionSequence>3.00</my:InstructionSequence>
+<my:InstructionStatus>OJ</my:InstructionStatus>
+<my:InstructionWorkCenter>   130050003</my:InstructionWorkCenter>
+<my:InstructionDescription>AQUACARE ELEKTROLYSE</my:InstructionDescription>
+<my:InstructionEstimatedHours>5.00</my:InstructionEstimatedHours>
+<my:InstructionBillableRate>.0000</my:InstructionBillableRate>
+<my:InstructionPercentCoverage>.00</my:InstructionPercentCoverage>
+<my:InstructionScheduledStartDate>07/05/18</my:InstructionScheduledStartDate>
+<my:InstructionScheduledEndDate>07/05/18</my:InstructionScheduledEndDate>
+<my:InstructionAttachment></my:InstructionAttachment>
+</my:Instruction>
+<my:InstalledBase>
+<my:IBSerialNumber>1288875-02-01</my:IBSerialNumber>
+<my:IBEquipmentNumber>936909</my:IBEquipmentNumber>
+<my:IBDescription1>Bac Terminator Safe</my:IBDescription1>
+<my:IBDescription2>Thorsmosevej 18</my:IBDescription2>
+<my:IBDescription3></my:IBDescription3>
+<my:IBInstallationDate>30/10/17</my:IBInstallationDate>
+<my:IBCC01>IB</my:IBCC01>
+<my:IBCC02></my:IBCC02>
+<my:IBCC03></my:IBCC03>
+<my:IBCC04></my:IBCC04>
+<my:IBCC05></my:IBCC05>
+<my:IBCC06></my:IBCC06>
+<my:IBCC07></my:IBCC07>
+<my:IBCC08></my:IBCC08>
+<my:IBCC09>PRW</my:IBCC09>
+<my:IBCC10></my:IBCC10>
+<my:IBCC01Description>Installed base</my:IBCC01Description>
+<my:IBCC02Description>                             .</my:IBCC02Description>
+<my:IBCC03Description>.</my:IBCC03Description>
+<my:IBCC04Description>.</my:IBCC04Description>
+<my:IBCC05Description>                             .</my:IBCC05Description>
+<my:IBCC06Description>.</my:IBCC06Description>
+<my:IBCC07Description>                             .</my:IBCC07Description>
+<my:IBCC08Description>.</my:IBCC08Description>
+<my:IBCC09Description>Services activity ProcessWater</my:IBCC09Description>
+<my:IBCC10Description>                             .</my:IBCC10Description>
+<my:IBServiceTechnicianCode>0</my:IBServiceTechnicianCode>
+<my:IBServiceTechnicianName></my:IBServiceTechnicianName>
+<my:IBParentSerialNumber>1288875-02</my:IBParentSerialNumber>
+<my:IBParentNumberDescription>Thorsmosevej 18</my:IBParentNumberDescription>
+<my:IBItemNumber></my:IBItemNumber>
+<my:IBProductModel>DKDOSING</my:IBProductModel>
+<my:IBProductModelDescription>DK - Dosing Equipment</my:IBProductModelDescription>
+<my:IBProductFamily>DKKLOREL</my:IBProductFamily>
+<my:IBProductFamilyDescription>DK - Klorelektrolyse</my:IBProductFamilyDescription>
+<my:IBLatitude></my:IBLatitude>
+<my:IBLongitude></my:IBLongitude>
+<my:IBElevation></my:IBElevation>
+<my:IBBuilding></my:IBBuilding>
+<my:IBFloor></my:IBFloor>
+<my:IBRoom></my:IBRoom>
+<my:IBOther1></my:IBOther1>
+<my:IBOther2></my:IBOther2>
+<my:IBContact></my:IBContact>
+<my:IBPhone></my:IBPhone>
+<my:IBToWorkOn>Y</my:IBToWorkOn>
+<my:IBAttachment></my:IBAttachment>
+<my:IBStatus>AC</my:IBStatus>
+</my:InstalledBase>
+<my:LastModifiedBy>
+<my:LastModifiedByName>AMS</my:LastModifiedByName>
+<my:LastModifiedByCode>99999870</my:LastModifiedByCode>
+<my:LastModifiedByDate>07/05/18</my:LastModifiedByDate>
+<my:LastModifiedByTime>14:52:57</my:LastModifiedByTime>
+</my:LastModifiedBy>
+<my:Assignments>
+<my:Assignment>
+<my:AssignmentTaskId>616702</my:AssignmentTaskId>
+<my:AssignmentEngineerName>AMS</my:AssignmentEngineerName>
+<my:AssignmentEngineerCode>99999870</my:AssignmentEngineerCode>
+<my:AssignmentDescription1>On-site Repair</my:AssignmentDescription1>
+<my:AssignmentDescription2>AQUACARE ELEKTROLYSE</my:AssignmentDescription2>
+<my:AssignmentScheduledStartDate>28/06/18</my:AssignmentScheduledStartDate>
+<my:AssignmentScheduledStartTime>00:00:00</my:AssignmentScheduledStartTime>
+<my:AssignmentScheduledEndDate>19/08/18</my:AssignmentScheduledEndDate>
+<my:AssignmentScheduledEndTime>00:00:00</my:AssignmentScheduledEndTime>
+<my:AssignmentBackOfficeCode>0</my:AssignmentBackOfficeCode>
+<my:AssignmentBackOfficeName></my:AssignmentBackOfficeName>
+</my:Assignment>
+</my:Assignments>
+<my:IBChilds>
+<my:IBChild>
+<my:IBChildSerialNumber>1288875-02-01</my:IBChildSerialNumber>
+<my:IBChildEquipmentNumber>936909</my:IBChildEquipmentNumber>
+<my:IBChildDescription>Bac Terminator Safe</my:IBChildDescription>
+<my:IBChildDescription2>Thorsmosevej 18</my:IBChildDescription2>
+<my:IBChildDescription3></my:IBChildDescription3>
+<my:IBChildItemNumber></my:IBChildItemNumber>
+<my:IBChildProductModel>DKDOSING</my:IBChildProductModel>
+<my:IBChildProductModelDescription>DK - Dosing Equipment</my:IBChildProductModelDescription>
+<my:IBChildProductFamily>DKKLOREL</my:IBChildProductFamily>
+<my:IBChildProductFamilyDescription>DK - Klorelektrolyse</my:IBChildProductFamilyDescription>
+<my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+<my:IBChildAttachment></my:IBChildAttachment>
+<my:IBChildStatus>AC</my:IBChildStatus>
+<my:IBChildActive>1</my:IBChildActive>
+<my:IBChildLevel>0</my:IBChildLevel>
+<my:IBChildParentNumber>936908</my:IBChildParentNumber>
+<my:IBChildParentSerialNumber>1288875-02</my:IBChildParentSerialNumber>
+<my:IBChildLatitude></my:IBChildLatitude>
+<my:IBChildLongitude></my:IBChildLongitude>
+<my:IBChildElevation></my:IBChildElevation>
+<my:IBChildBuilding></my:IBChildBuilding>
+<my:IBChildFloor></my:IBChildFloor>
+<my:IBChildRoom></my:IBChildRoom>
+<my:IBChildOther1></my:IBChildOther1>
+<my:IBChildOther2></my:IBChildOther2>
+<my:IBChildContact></my:IBChildContact>
+<my:IBChildPhone></my:IBChildPhone>
+</my:IBChild>
+</my:IBChilds>
+</my:MyFields>

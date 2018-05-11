@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution PIVersion="1.0.0.0" name="urn:schemas-microsoft-com:office:infopath:FieldReport:-VWS_R07" solutionVersion="1.0.0.5668" productVersion="14.0.0" ?>
+<?mso-application progid="InfoPath.Document" ?>
+<my:MyFields xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2007-03-09T08:21:13" xmlns:d="http://schemas.microsoft.com/office/infopath/2003/ado/dataFields" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xmlns:xdEnvironment="http://schemas.microsoft.com/office/infopath/2006/xslt/environment" xmlns:xdUser="http://schemas.microsoft.com/office/infopath/2006/xslt/User" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsf2="http://schemas.microsoft.com/office/infopath/2006/solutionDefinition/extensions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="da">
+   <my:System>
+      <my:SystemEnvironment>JUATE</my:SystemEnvironment>
+      <my:SystemSentByName>LISBETH WIELANDT</my:SystemSentByName>
+      <my:SystemSentByCode>558804</my:SystemSentByCode>
+      <my:SystemSentByDate>04/05/18</my:SystemSentByDate>
+      <my:SystemSentByTime>07:58:13</my:SystemSentByTime>
+   </my:System>
+   <my:LastModifiedBy>
+      <my:LastModifiedByName>LISBETH WIELANDT</my:LastModifiedByName>
+      <my:LastModifiedByCode>558804</my:LastModifiedByCode>
+      <my:LastModifiedByDate>04/05/18</my:LastModifiedByDate>
+      <my:LastModifiedByTime>07:51:21</my:LastModifiedByTime>
+   </my:LastModifiedBy>
+   <my:Header>
+      <my:HeaderDocumentNumber>749218</my:HeaderDocumentNumber>
+      <my:HeaderDocumentType>SX</my:HeaderDocumentType>
+      <my:HeaderDocumentTypeDescription>Service order-MA contract</my:HeaderDocumentTypeDescription>
+      <my:HeaderCompany>01300</my:HeaderCompany>
+      <my:HeaderServiceType>U</my:HeaderServiceType>
+      <my:HeaderServiceTypeDescription>Preventive Maintenance</my:HeaderServiceTypeDescription>
+      <my:HeaderCustomerNumber>1262258</my:HeaderCustomerNumber>
+      <my:HeaderCustomerName>Klar Forsyning A/S</my:HeaderCustomerName>
+      <my:HeaderCustomerAddressADD1>MAIL: adm@klarforsyning.dk</my:HeaderCustomerAddressADD1>
+      <my:HeaderCustomerAddressADD2>Revlen 2</my:HeaderCustomerAddressADD2>
+      <my:HeaderCustomerAddressADD3 />
+      <my:HeaderCustomerAddressADD4 />
+      <my:HeaderCustomerAddressADD5>KÃ¸ge   4600</my:HeaderCustomerAddressADD5>
+      <my:HeaderCustomerAddressZIP>4600</my:HeaderCustomerAddressZIP>
+      <my:HeaderCustomerAddressCity>KÃ¸ge</my:HeaderCustomerAddressCity>
+      <my:HeaderCustomerAddressCountry>DK</my:HeaderCustomerAddressCountry>
+      <my:HeaderCustomerLanguage>DN</my:HeaderCustomerLanguage>
+      <my:HeaderSiteNumber>568158</my:HeaderSiteNumber>
+      <my:HeaderSiteName>Slimminge RenseanlÃ¦g</my:HeaderSiteName>
+      <my:HeaderSiteAddressADD1>BÃ¸gedevej 16A</my:HeaderSiteAddressADD1>
+      <my:HeaderSiteAddressADD2 />
+      <my:HeaderSiteAddressADD3 />
+      <my:HeaderSiteAddressADD4 />
+      <my:HeaderSiteAddressADD5>Ringsted   4100</my:HeaderSiteAddressADD5>
+      <my:HeaderSiteAddressZIP>4100</my:HeaderSiteAddressZIP>
+      <my:HeaderSiteAddressCity>Ringsted</my:HeaderSiteAddressCity>
+      <my:HeaderSiteAddressCountry>DK</my:HeaderSiteAddressCountry>
+      <my:HeaderSiteAttachment />
+      <my:HeaderSiteLanguage>DN</my:HeaderSiteLanguage>
+      <my:HeaderCC01 />
+      <my:HeaderCC02 />
+      <my:HeaderCC03 />
+      <my:HeaderCC04 />
+      <my:HeaderCC05 />
+      <my:HeaderCC06 />
+      <my:HeaderCC07 />
+      <my:HeaderCC08 />
+      <my:HeaderCC09 />
+      <my:HeaderCC10>0</my:HeaderCC10>
+      <my:HeaderCC01Description>.</my:HeaderCC01Description>
+      <my:HeaderCC02Description>.</my:HeaderCC02Description>
+      <my:HeaderCC03Description>.</my:HeaderCC03Description>
+      <my:HeaderCC04Description>.</my:HeaderCC04Description>
+      <my:HeaderCC05Description>.</my:HeaderCC05Description>
+      <my:HeaderCC06Description>.</my:HeaderCC06Description>
+      <my:HeaderCC07Description>.</my:HeaderCC07Description>
+      <my:HeaderCC08Description>.</my:HeaderCC08Description>
+      <my:HeaderCC09Description>.</my:HeaderCC09Description>
+      <my:HeaderCC10Description>.</my:HeaderCC10Description>
+      <my:HeaderCustomerOrder />
+      <my:HeaderCallNumber>0</my:HeaderCallNumber>
+      <my:HeaderCallAttachment />
+      <my:HeaderOrderDescription>PMKRG101309A - WWSR</my:HeaderOrderDescription>
+      <my:HeaderSymptom>SERVICE PÃ… SPILDEVANDSANLÃ†G:</my:HeaderSymptom>
+      <my:HeaderOrderAttachment />
+   </my:Header>
+   <my:Contact>
+      <my:ContactName>BILL GLENTVED</my:ContactName>
+      <my:ContactPhone>+4556645530</my:ContactPhone>
+      <my:ContactFax />
+      <my:ContactEmail />
+   </my:Contact>
+   <my:Contract>
+      <my:ContractNumber>0</my:ContractNumber>
+      <my:ContractType />
+      <my:ContractVersion />
+      <my:ContractServicePackage />
+      <my:ContractServicePackageDescription />
+      <my:ContractCoverageGroup />
+      <my:ContractCoverageGroupDescription>.</my:ContractCoverageGroupDescription>
+      <my:ContractLineType>S</my:ContractLineType>
+      <my:ContractLineTypeDescription>Stock Inventory Item</my:ContractLineTypeDescription>
+      <my:ContractStatus />
+      <my:ContractStatusDescription />
+      <my:ContractCoverageStartDate />
+      <my:ContractCoverageEndDate />
+      <my:ContractTotalAmount>0.00</my:ContractTotalAmount>
+   </my:Contract>
+   <my:Attachments>
+      <my:Attachment>
+         <my:AttachmentURL />
+         <my:AttachmentModifiedDateTime />
+         <my:AttachmentSize />
+         <my:AttachmentName />
+         <my:AttachmentTitle />
+      </my:Attachment>
+   </my:Attachments>
+   <my:Instruction>
+      <my:InstructionSequence>1.00</my:InstructionSequence>
+      <my:InstructionStatus>OJ</my:InstructionStatus>
+      <my:InstructionWorkCenter>130050001</my:InstructionWorkCenter>
+      <my:InstructionDescription>WWSR</my:InstructionDescription>
+      <my:InstructionEstimatedHours>7.40</my:InstructionEstimatedHours>
+      <my:InstructionBillableRate>.0000</my:InstructionBillableRate>
+      <my:InstructionPercentCoverage>.00</my:InstructionPercentCoverage>
+      <my:InstructionScheduledStartDate>03/05/18</my:InstructionScheduledStartDate>
+      <my:InstructionScheduledEndDate>03/05/18</my:InstructionScheduledEndDate>
+      <my:InstructionAttachment />
+   </my:Instruction>
+   <my:InstalledBase>
+      <my:IBSerialNumber>568158</my:IBSerialNumber>
+      <my:IBEquipmentNumber>305039</my:IBEquipmentNumber>
+      <my:IBDescription1>Slimminge RenseanlÃ¦g</my:IBDescription1>
+      <my:IBDescription2>BÃ¸gedevej 16A</my:IBDescription2>
+      <my:IBDescription3>4100 Ringsted</my:IBDescription3>
+      <my:IBInstallationDate>15/12/10</my:IBInstallationDate>
+      <my:IBCC01>IB</my:IBCC01>
+      <my:IBCC02 />
+      <my:IBCC03 />
+      <my:IBCC04 />
+      <my:IBCC05 />
+      <my:IBCC06 />
+      <my:IBCC07 />
+      <my:IBCC08 />
+      <my:IBCC09 />
+      <my:IBCC10 />
+      <my:IBCC01Description>Installed base</my:IBCC01Description>
+      <my:IBCC02Description>.</my:IBCC02Description>
+      <my:IBCC03Description>.</my:IBCC03Description>
+      <my:IBCC04Description>.</my:IBCC04Description>
+      <my:IBCC05Description>.</my:IBCC05Description>
+      <my:IBCC06Description>.</my:IBCC06Description>
+      <my:IBCC07Description>.</my:IBCC07Description>
+      <my:IBCC08Description>.</my:IBCC08Description>
+      <my:IBCC09Description>.</my:IBCC09Description>
+      <my:IBCC10Description>.</my:IBCC10Description>
+      <my:IBServiceTechnicianCode>0</my:IBServiceTechnicianCode>
+      <my:IBServiceTechnicianName />
+      <my:IBParentSerialNumber>568158</my:IBParentSerialNumber>
+      <my:IBParentNumberDescription>Slimminge RenseanlÃ¦g</my:IBParentNumberDescription>
+      <my:IBItemNumber />
+      <my:IBProductModel />
+      <my:IBProductModelDescription>.</my:IBProductModelDescription>
+      <my:IBProductFamily />
+      <my:IBProductFamilylDescription />
+      <my:IBLatitude />
+      <my:IBLongitude />
+      <my:IBElevation />
+      <my:IBBuilding />
+      <my:IBFloor />
+      <my:IBRoom />
+      <my:IBOther1 />
+      <my:IBOther2 />
+      <my:IBContact />
+      <my:IBPhone />
+      <my:IBToWorkOn>Y</my:IBToWorkOn>
+      <my:IBToWorkOnDisplay />
+      <my:IbSerialNumberToDisplay>568158</my:IbSerialNumberToDisplay>
+      <my:IbDescriptionToDisplay>Slimminge RenseanlÃ¦g</my:IbDescriptionToDisplay>
+      <my:IBAttachment />
+      <my:IBStatus>AC</my:IBStatus>
+   </my:InstalledBase>
+   <my:IBChilds>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>305039</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>Slimminge RenseanlÃ¦g</my:IBChildDescription>
+         <my:IBChildDescription2>BÃ¸gedevej 16A</my:IBChildDescription2>
+         <my:IBChildDescription3>4100 Ringsted</my:IBChildDescription3>
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel />
+         <my:IBChildProductModelDescription>.</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily />
+         <my:IBChildProductFamilyDescription>.</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>1</my:IBChildNumber>
+         <my:IBChildLevel>0</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>305039</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-01</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>306536</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>BÃ¸gedevej 16A</my:IBChildDescription>
+         <my:IBChildDescription2 />
+         <my:IBChildDescription3 />
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel />
+         <my:IBChildProductModelDescription>.</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily />
+         <my:IBChildProductFamilyDescription>.</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>1</my:IBChildNumber>
+         <my:IBChildLevel>1</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>305039</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-01-01</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>308653</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>RenseanlÃ¦g</my:IBChildDescription>
+         <my:IBChildDescription2 />
+         <my:IBChildDescription3 />
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel>DKOTHER</my:IBChildProductModel>
+         <my:IBChildProductModelDescription>DK - Other</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily>DKOTHER</my:IBChildProductFamily>
+         <my:IBChildProductFamilyDescription>DK - OTHER</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>1</my:IBChildNumber>
+         <my:IBChildLevel>2</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>306536</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158-01</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-02</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>404070</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>Procestanke</my:IBChildDescription>
+         <my:IBChildDescription2 />
+         <my:IBChildDescription3 />
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel />
+         <my:IBChildProductModelDescription>.</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily />
+         <my:IBChildProductFamilyDescription>.</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>2</my:IBChildNumber>
+         <my:IBChildLevel>1</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>305039</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-02-01</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>404071</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>OmrÃ¸rer DT01</my:IBChildDescription>
+         <my:IBChildDescription2>DT01</my:IBChildDescription2>
+         <my:IBChildDescription3>Landia POP-1,   1,1kW</my:IBChildDescription3>
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel>DKMIX</my:IBChildProductModel>
+         <my:IBChildProductModelDescription>KD - Mixer</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily>DKPROCES</my:IBChildProductFamily>
+         <my:IBChildProductFamilyDescription>KD - Processtanks</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment>AnlÃ¦g flyttet til nr. 568158-03-01. Charlotte Eriksen 06.02.2013</my:IBChildAttachment>
+         <my:IBChildStatus>IE</my:IBChildStatus>
+         <my:IBChildActive>0</my:IBChildActive>
+         <my:IBChildNumber>2</my:IBChildNumber>
+         <my:IBChildLevel>2</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>404070</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158-02</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-02-02</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>404072</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>OmrÃ¸rer LT01</my:IBChildDescription>
+         <my:IBChildDescription2>LT01</my:IBChildDescription2>
+         <my:IBChildDescription3>Landia POP-1,   1,5kW</my:IBChildDescription3>
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel>DKMIX</my:IBChildProductModel>
+         <my:IBChildProductModelDescription>KD - Mixer</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily>DKPROCES</my:IBChildProductFamily>
+         <my:IBChildProductFamilyDescription>KD - Processtanks</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>3</my:IBChildNumber>
+         <my:IBChildLevel>2</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>404070</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158-02</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-03</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>754443</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>Denitifikationstank</my:IBChildDescription>
+         <my:IBChildDescription2 />
+         <my:IBChildDescription3 />
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel />
+         <my:IBChildProductModelDescription>.</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily />
+         <my:IBChildProductFamilyDescription>.</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment />
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>3</my:IBChildNumber>
+         <my:IBChildLevel>1</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>305039</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+      <my:IBChild>
+         <my:IBChildSerialNumber>568158-03-01</my:IBChildSerialNumber>
+         <my:IBChildEquipmentNumber>754444</my:IBChildEquipmentNumber>
+         <my:IBChildDescription>OmrÃ¸rer DT01</my:IBChildDescription>
+         <my:IBChildDescription2>DT01</my:IBChildDescription2>
+         <my:IBChildDescription3>Landia POP-1,   1,1kW</my:IBChildDescription3>
+         <my:IBChildItemNumber />
+         <my:IBChildProductModel>DKMIX</my:IBChildProductModel>
+         <my:IBChildProductModelDescription>KD - Mixer</my:IBChildProductModelDescription>
+         <my:IBChildProductFamily>DKPROCES</my:IBChildProductFamily>
+         <my:IBChildProductFamilyDescription>KD - Processtanks</my:IBChildProductFamilyDescription>
+         <my:IBChildToWorkOn>Y</my:IBChildToWorkOn>
+         <my:IBChildAttachment>Tidligere anlÃ¦gsnr. 568158-02-01. Charlotte Eriksen 06.02.2013</my:IBChildAttachment>
+         <my:IBChildStatus>AC</my:IBChildStatus>
+         <my:IBChildActive>1</my:IBChildActive>
+         <my:IBChildNumber>4</my:IBChildNumber>
+         <my:IBChildLevel>2</my:IBChildLevel>
+         <my:IBChildLevel1 />
+         <my:IBChildLevel2 />
+         <my:IBChildToWorkOnDisplay />
+         <my:IBChildParentNumber>754443</my:IBChildParentNumber>
+         <my:IBChildParentSerialNumber>568158-03</my:IBChildParentSerialNumber>
+         <my:IBChildServicePackage />
+         <my:IBChildCoverageGroup />
+         <my:IBChildCosts>
+            <my:IBChildCost>
+               <my:IBChildCostType />
+               <my:IBChildCostTypeDescription />
+               <my:IBChildPercentCover />
+            </my:IBChildCost>
+         </my:IBChildCosts>
+         <my:IBChildLatitude />
+         <my:IBChildLongitude />
+         <my:IBChildElevation />
+         <my:IBChildBuilding />
+         <my:IBChildFloor />
+         <my:IBChildRoom />
+         <my:IBChildOther1 />
+         <my:IBChildOther2 />
+         <my:IBChildContact />
+         <my:IBChildPhone />
+      </my:IBChild>
+   </my:IBChilds>
+   <my:Assignments>
+      <my:Assignment>
+         <my:AssignmentEngineerName>LISBETH WIELANDT</my:AssignmentEngineerName>
+         <my:AssignmentEngineerCode>558804</my:AssignmentEngineerCode>
+         <my:AssignmentDescription1>PMKRG101309A - WWSR</my:AssignmentDescription1>
+         <my:AssignmentDescription2>WWSR</my:AssignmentDescription2>
+         <my:AssignmentScheduledStartDate>03-05-2018 00:00:00</my:AssignmentScheduledStartDate>
+         <my:AssignmentScheduledStartTime>04-05-2018 00:00:00</my:AssignmentScheduledStartTime>
+         <my:AssignmentScheduledEndDate>03-05-2018 00:00:00</my:AssignmentScheduledEndDate>
+         <my:AssignmentScheduledEndTime>04-05-2018 00:00:00</my:AssignmentScheduledEndTime>
+         <my:AssignmentBackOfficeCode>0</my:AssignmentBackOfficeCode>
+         <my:AssignmentBackOfficeName />
+         <my:AssignmentNumber />
+         <my:AssignmentTotalHours>16</my:AssignmentTotalHours>
+         <my:AssignmentActualEngineerName>LISBETH WIELANDT</my:AssignmentActualEngineerName>
+         <my:AssignmentActualEngineerCode>558804</my:AssignmentActualEngineerCode>
+         <my:AssignmentDetails>
+            <my:AssignmentActualDate>2018-05-04</my:AssignmentActualDate>
+            <my:AssignmentActualStartTime>07:00:00</my:AssignmentActualStartTime>
+            <my:AssignmentActualEndTime>15:00:00</my:AssignmentActualEndTime>
+            <my:AssignmentHoursNumber>8</my:AssignmentHoursNumber>
+            <my:AssignmentHoursType>1</my:AssignmentHoursType>
+            <my:AssignmentHoursType2 />
+            <my:AssignmentSubEquipmentNumber />
+            <my:AssignmentIBChoice />
+            <my:AssignmentMileage>0</my:AssignmentMileage>
+         </my:AssignmentDetails>
+         <my:AssignmentDetails>
+            <my:AssignmentActualDate>2018-05-05</my:AssignmentActualDate>
+            <my:AssignmentActualStartTime>07:00:00</my:AssignmentActualStartTime>
+            <my:AssignmentActualEndTime>15:00:00</my:AssignmentActualEndTime>
+            <my:AssignmentHoursNumber>8</my:AssignmentHoursNumber>
+            <my:AssignmentHoursType>1</my:AssignmentHoursType>
+            <my:AssignmentHoursType2 />
+            <my:AssignmentSubEquipmentNumber />
+            <my:AssignmentIBChoice />
+            <my:AssignmentMileage>0</my:AssignmentMileage>
+         </my:AssignmentDetails>
+      </my:Assignment>
+   </my:Assignments>
+   <my:PartsSearch>
+      <my:PartCodeGet />
+      <my:PartDescriptionGet />
+      <my:PartLegacyCodeGet />
+      <my:PartSearchTextGet />
+      <my:PartManufGet />
+      <my:PartNonStockedYN>false</my:PartNonStockedYN>
+      <my:allEmpty>true</my:allEmpty>
+      <my:PartsDropDown />
+      <my:Parts2LegacyCode />
+      <my:Parts2Description1 />
+      <my:Parts2Description2 />
+      <my:Parts2IBSerialNumber />
+      <my:Parts2IBNumber />
+      <my:Parts2UnitOfMeasure />
+      <my:Parts2BasePrice xsi:nil="true" />
+      <my:Parts2PriceEffectiveFrom xsi:nil="true" />
+      <my:Parts2PriceEffectiveTo xsi:nil="true" />
+      <my:Parts2IssuedQuantity>1</my:Parts2IssuedQuantity>
+      <my:Parts2BranchPlant />
+      <my:Parts2LotNumber />
+      <my:Parts2EffectiveCost>0</my:Parts2EffectiveCost>
+      <my:Parts2StockingType />
+      <my:Parts2Location />
+      <my:PartsTotal>0</my:PartsTotal>
+   </my:PartsSearch>
+   <my:Parts>
+      <my:Part>
+         <my:PartUniqueKey>5213198</my:PartUniqueKey>
+         <my:PartCode>R073SERK-SERVICE</my:PartCode>
+         <my:PartDescription>SERVICEAFTALE</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-01-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>308653</my:PartSubEquipmentNumber>
+         <my:PartLineType>B</my:PartLineType>
+         <my:PartStockingType>N</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213199</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200921</my:PartCode>
+         <my:PartDescription>OLIE: HYDRAWAY BIO SE 46</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>10.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>10</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-01-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>308653</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213200</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200952</my:PartCode>
+         <my:PartDescription>OLIE: VAKUUMOLIE VE101</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-01-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>308653</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213201</my:PartUniqueKey>
+         <my:PartCode>FTFICS301745</my:PartCode>
+         <my:PartDescription>FILTER LUFT BUSCH 70X40X375</my:PartDescription>
+         <my:PartDescription2>F/BUSCH R5-0160/0305</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>0</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-01-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>308653</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213202</my:PartUniqueKey>
+         <my:PartCode>FTFICS200613</my:PartCode>
+         <my:PartDescription>FILTERELEMENT MF1001M25NB</my:PartDescription>
+         <my:PartDescription2>MPF/HYDROPOWER</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-01-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>308653</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213203</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200921</my:PartCode>
+         <my:PartDescription>OLIE: HYDRAWAY BIO SE 46</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>10.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>10</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-02-02</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>404072</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213204</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200952</my:PartCode>
+         <my:PartDescription>OLIE: VAKUUMOLIE VE101</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-02-02</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>404072</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213205</my:PartUniqueKey>
+         <my:PartCode>FTFICS301745</my:PartCode>
+         <my:PartDescription>FILTER LUFT BUSCH 70X40X375</my:PartDescription>
+         <my:PartDescription2>F/BUSCH R5-0160/0305</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-02-02</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>404072</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213206</my:PartUniqueKey>
+         <my:PartCode>FTFICS200613</my:PartCode>
+         <my:PartDescription>FILTERELEMENT MF1001M25NB</my:PartDescription>
+         <my:PartDescription2>MPF/HYDROPOWER</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-02-02</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>404072</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213207</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200921</my:PartCode>
+         <my:PartDescription>OLIE: HYDRAWAY BIO SE 46</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>10.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>5</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-03-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>754444</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213208</my:PartUniqueKey>
+         <my:PartCode>TOLUGU200952</my:PartCode>
+         <my:PartDescription>OLIE: VAKUUMOLIE VE101</my:PartDescription>
+         <my:PartDescription2 />
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>L</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-03-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>754444</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213209</my:PartUniqueKey>
+         <my:PartCode>FTFICS301745</my:PartCode>
+         <my:PartDescription>FILTER LUFT BUSCH 70X40X375</my:PartDescription>
+         <my:PartDescription2>F/BUSCH R5-0160/0305</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-03-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>754444</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+      <my:Part>
+         <my:PartUniqueKey>5213210</my:PartUniqueKey>
+         <my:PartCode>FTFICS200613</my:PartCode>
+         <my:PartDescription>FILTERELEMENT MF1001M25NB</my:PartDescription>
+         <my:PartDescription2>MPF/HYDROPOWER</my:PartDescription2>
+         <my:PartEstimatedQuantity>1.000</my:PartEstimatedQuantity>
+         <my:PartIssuedQuantity>1</my:PartIssuedQuantity>
+         <my:PartUnitOfMeasure>EA</my:PartUnitOfMeasure>
+         <my:PartUnitPrice>0</my:PartUnitPrice>
+         <my:PartBillable>1</my:PartBillable>
+         <my:PartLotNumber />
+         <my:PartBranchIssue>1300301</my:PartBranchIssue>
+         <my:PartLocation />
+         <my:PartAttachment />
+         <my:PartTotalPrice>0</my:PartTotalPrice>
+         <my:PartToDelete>false</my:PartToDelete>
+         <my:PartEffectiveCost>0</my:PartEffectiveCost>
+         <my:PartUpdateAllowed>Y</my:PartUpdateAllowed>
+         <my:PartNonStocked>0</my:PartNonStocked>
+         <my:PartPercentCoverage>.00</my:PartPercentCoverage>
+         <my:PartSubEquipmentSerialNumber>568158-03-01</my:PartSubEquipmentSerialNumber>
+         <my:PartSubEquipmentNumber>754444</my:PartSubEquipmentNumber>
+         <my:PartLineType>S</my:PartLineType>
+         <my:PartStockingType>P</my:PartStockingType>
+      </my:Part>
+   </my:Parts>
+   <my:PtwImport>
+      <my:wc />
+      <my:jss />
+      <my:tlr />
+      <my:efro />
+      <my:air />
+      <my:GeneralComments>AKJFLAJSDFSJF</my:GeneralComments>
+   </my:PtwImport>
+   <my:TechDataSection>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-01-01</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>RenseanlÃ¦g</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2 />
+         <my:IBTechDataSerialNumberModel>DKOTHER</my:IBTechDataSerialNumberModel>
+         <my:IBTechDataSerialNumberModelDescription>DK - Other</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily>DKOTHER</my:IBTechDataSerialNumberFamily>
+         <my:IBTechDataSerialNumberFamilyDescription>DK - OTHER</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>308653</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>01</my:TechDataType>
+            <my:TechDataDescription>AnlÃ¦g/System type</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>02</my:TechDataType>
+            <my:TechDataDescription>Opgave beskrivelse</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>03</my:TechDataType>
+            <my:TechDataDescription>Varsling sedler opsat</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>02</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ikke relevant</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>04</my:TechDataType>
+            <my:TechDataDescription>Tryk tilgang</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>05</my:TechDataType>
+            <my:TechDataDescription>Tryk afgang</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>06</my:TechDataType>
+            <my:TechDataDescription>Kontrol for lÃ¦kage</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>07</my:TechDataType>
+            <my:TechDataDescription>Kontrol af ventiler</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>08</my:TechDataType>
+            <my:TechDataDescription>Kontrol af alarmer</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>09</my:TechDataType>
+            <my:TechDataDescription>Filterskift</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>10</my:TechDataType>
+            <my:TechDataDescription>Slut RengÃ¸ring</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>11</my:TechDataType>
+            <my:TechDataDescription>Kontrol af anlÃ¦g i drift</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>12</my:TechDataType>
+            <my:TechDataDescription>Visuelt kontrol afslutningsvis</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DOTH</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>DK - OTHER</my:TechDataDatabaseDescription>
+            <my:TechDataType>13</my:TechDataType>
+            <my:TechDataDescription>Opgaven udfÃ¸rt</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>ja</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ja</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>nej</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>02</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>ikke relevant</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>ja</my:TechDataValueDesc>
+         </my:TechData>
+         <my:IBTechDataComments>TEST TEST</my:IBTechDataComments>
+         <my:IBTechDataNumber />
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>9</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-02-01</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>OmrÃ¸rer DT01</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2>DT01</my:IBTechDataSerialNumberDescription2>
+         <my:IBTechDataSerialNumberModel>DKMIX</my:IBTechDataSerialNumberModel>
+         <my:IBTechDataSerialNumberModelDescription>KD - Mixer</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily>DKPROCES</my:IBTechDataSerialNumberFamily>
+         <my:IBTechDataSerialNumberFamilyDescription>KD - Processtanks</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>404071</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>01</my:TechDataType>
+            <my:TechDataDescription>AnlÃ¦g tag nr. / ID</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>2</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>02</my:TechDataType>
+            <my:TechDataDescription>Motor, ohm</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>03</my:TechDataType>
+            <my:TechDataDescription>Motor</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>04</my:TechDataType>
+            <my:TechDataDescription>Gear</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>05</my:TechDataType>
+            <my:TechDataDescription>Lejer/tÃ¦tninger</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>06</my:TechDataType>
+            <my:TechDataDescription>Propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>07</my:TechDataType>
+            <my:TechDataDescription>OlietÃ¦tn./slidbÃ¸sning</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>08</my:TechDataType>
+            <my:TechDataDescription>AfstandsbÃ¸sn. f.propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>09</my:TechDataType>
+            <my:TechDataDescription>FastgÃ¸relse</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>10</my:TechDataType>
+            <my:TechDataDescription>Konsoller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>11</my:TechDataType>
+            <my:TechDataDescription>KÃ¦de/wire</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>12</my:TechDataType>
+            <my:TechDataDescription>SjÃ¦kler</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>13</my:TechDataType>
+            <my:TechDataDescription>MÃ¸trikker/bolte</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>14</my:TechDataType>
+            <my:TechDataDescription>AfprÃ¸vning, manuel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>15</my:TechDataType>
+            <my:TechDataDescription>NÃ¸dstop/afbryder</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>16</my:TechDataType>
+            <my:TechDataDescription>TimetÃ¦ller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>2</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning />
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-02-02</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>OmrÃ¸rer LT01</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2>LT01</my:IBTechDataSerialNumberDescription2>
+         <my:IBTechDataSerialNumberModel>DKMIX</my:IBTechDataSerialNumberModel>
+         <my:IBTechDataSerialNumberModelDescription>KD - Mixer</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily>DKPROCES</my:IBTechDataSerialNumberFamily>
+         <my:IBTechDataSerialNumberFamilyDescription>KD - Processtanks</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>404072</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>01</my:TechDataType>
+            <my:TechDataDescription>AnlÃ¦g tag nr. / ID</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>2</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>02</my:TechDataType>
+            <my:TechDataDescription>Motor, ohm</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>03</my:TechDataType>
+            <my:TechDataDescription>Motor</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>04</my:TechDataType>
+            <my:TechDataDescription>Gear</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>05</my:TechDataType>
+            <my:TechDataDescription>Lejer/tÃ¦tninger</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>06</my:TechDataType>
+            <my:TechDataDescription>Propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>07</my:TechDataType>
+            <my:TechDataDescription>OlietÃ¦tn./slidbÃ¸sning</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>08</my:TechDataType>
+            <my:TechDataDescription>AfstandsbÃ¸sn. f.propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>09</my:TechDataType>
+            <my:TechDataDescription>FastgÃ¸relse</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>10</my:TechDataType>
+            <my:TechDataDescription>Konsoller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>11</my:TechDataType>
+            <my:TechDataDescription>KÃ¦de/wire</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>12</my:TechDataType>
+            <my:TechDataDescription>SjÃ¦kler</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>13</my:TechDataType>
+            <my:TechDataDescription>MÃ¸trikker/bolte</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>14</my:TechDataType>
+            <my:TechDataDescription>AfprÃ¸vning, manuel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>15</my:TechDataType>
+            <my:TechDataDescription>NÃ¸dstop/afbryder</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>16</my:TechDataType>
+            <my:TechDataDescription>TimetÃ¦ller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>3</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-03-01</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>OmrÃ¸rer DT01</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2>DT01</my:IBTechDataSerialNumberDescription2>
+         <my:IBTechDataSerialNumberModel>DKMIX</my:IBTechDataSerialNumberModel>
+         <my:IBTechDataSerialNumberModelDescription>KD - Mixer</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily>DKPROCES</my:IBTechDataSerialNumberFamily>
+         <my:IBTechDataSerialNumberFamilyDescription>KD - Processtanks</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>754444</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>01</my:TechDataType>
+            <my:TechDataDescription>AnlÃ¦g tag nr. / ID</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>2</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>02</my:TechDataType>
+            <my:TechDataDescription>Motor, ohm</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>03</my:TechDataType>
+            <my:TechDataDescription>Motor</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>04</my:TechDataType>
+            <my:TechDataDescription>Gear</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>05</my:TechDataType>
+            <my:TechDataDescription>Lejer/tÃ¦tninger</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>06</my:TechDataType>
+            <my:TechDataDescription>Propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>01</my:TechDataValue>
+            <my:TechDataValueDesc>Se kommentar</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>07</my:TechDataType>
+            <my:TechDataDescription>OlietÃ¦tn./slidbÃ¸sning</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>08</my:TechDataType>
+            <my:TechDataDescription>AfstandsbÃ¸sn. f.propel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>09</my:TechDataType>
+            <my:TechDataDescription>FastgÃ¸relse</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>10</my:TechDataType>
+            <my:TechDataDescription>Konsoller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>11</my:TechDataType>
+            <my:TechDataDescription>KÃ¦de/wire</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>12</my:TechDataType>
+            <my:TechDataDescription>SjÃ¦kler</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue>00</my:TechDataValue>
+            <my:TechDataValueDesc>OK</my:TechDataValueDesc>
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>13</my:TechDataType>
+            <my:TechDataDescription>MÃ¸trikker/bolte</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>14</my:TechDataType>
+            <my:TechDataDescription>AfprÃ¸vning, manuel</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>15</my:TechDataType>
+            <my:TechDataDescription>NÃ¸dstop/afbryder</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious>00</my:TechDataPrevious>
+            <my:TechDataPreviousValueDesc>OK</my:TechDataPreviousValueDesc>
+            <my:TechDataFormat>3</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>00</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>OK</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue>01</my:TechDataAllowedValue>
+                  <my:TechDataAllowedDescription>Se kommentar</my:TechDataAllowedDescription>
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:TechData>
+            <my:TechDataDatabase>DMIX</my:TechDataDatabase>
+            <my:TechDataDatabaseDescription>KD - Mixer</my:TechDataDatabaseDescription>
+            <my:TechDataType>16</my:TechDataType>
+            <my:TechDataDescription>TimetÃ¦ller</my:TechDataDescription>
+            <my:TechDataMandatory />
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat>1</my:TechDataFormat>
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments>COMMENT</my:IBTechDataComments>
+         <my:IBTechDataNumber>4</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>1</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>7</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>Slimminge RenseanlÃ¦g</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2>BÃ¸gedevej 16A</my:IBTechDataSerialNumberDescription2>
+         <my:IBTechDataSerialNumberModel />
+         <my:IBTechDataSerialNumberModelDescription>.</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily />
+         <my:IBTechDataSerialNumberFamilyDescription>.</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>305039</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase />
+            <my:TechDataDatabaseDescription />
+            <my:TechDataType />
+            <my:TechDataDescription />
+            <my:TechDataMandatory>0</my:TechDataMandatory>
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat />
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>5</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-01</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>BÃ¸gedevej 16A</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2 />
+         <my:IBTechDataSerialNumberModel />
+         <my:IBTechDataSerialNumberModelDescription>.</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily />
+         <my:IBTechDataSerialNumberFamilyDescription>.</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>306536</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase />
+            <my:TechDataDatabaseDescription />
+            <my:TechDataType />
+            <my:TechDataDescription />
+            <my:TechDataMandatory>0</my:TechDataMandatory>
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat />
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>6</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-02</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>Procestanke</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2 />
+         <my:IBTechDataSerialNumberModel />
+         <my:IBTechDataSerialNumberModelDescription>.</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily />
+         <my:IBTechDataSerialNumberFamilyDescription>.</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>404070</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase />
+            <my:TechDataDatabaseDescription />
+            <my:TechDataType />
+            <my:TechDataDescription />
+            <my:TechDataMandatory>0</my:TechDataMandatory>
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat />
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>7</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+      <my:IBTechData>
+         <my:IBTechDataSerialNumber>568158-03</my:IBTechDataSerialNumber>
+         <my:IBTechDataSerialNumberDescription>Denitifikationstank</my:IBTechDataSerialNumberDescription>
+         <my:IBTechDataSerialNumberDescription2 />
+         <my:IBTechDataSerialNumberModel />
+         <my:IBTechDataSerialNumberModelDescription>.</my:IBTechDataSerialNumberModelDescription>
+         <my:IBTechDataSerialNumberFamily />
+         <my:IBTechDataSerialNumberFamilyDescription>.</my:IBTechDataSerialNumberFamilyDescription>
+         <my:IBTechDataEquipmentNumber>754443</my:IBTechDataEquipmentNumber>
+         <my:IBTechDataToWorkOn>Y</my:IBTechDataToWorkOn>
+         <my:TechData>
+            <my:TechDataDatabase />
+            <my:TechDataDatabaseDescription />
+            <my:TechDataType />
+            <my:TechDataDescription />
+            <my:TechDataMandatory>0</my:TechDataMandatory>
+            <my:TechDataReference />
+            <my:TechDataCommissioning />
+            <my:TechDataPrevious />
+            <my:TechDataPreviousValueDesc />
+            <my:TechDataFormat />
+            <my:TechDataAllowedValues>
+               <my:TechDataAllowed>
+                  <my:TechDataAllowedValue />
+                  <my:TechDataAllowedDescription />
+               </my:TechDataAllowed>
+            </my:TechDataAllowedValues>
+            <my:TechDataValue />
+            <my:TechDataValueDesc />
+         </my:TechData>
+         <my:IBTechDataComments />
+         <my:IBTechDataNumber>8</my:IBTechDataNumber>
+         <my:IBTechDataSketchBool>0</my:IBTechDataSketchBool>
+         <my:IBTechDataSketchSection>
+            <my:IBTechDataSketch xsi:nil="true" />
+         </my:IBTechDataSketchSection>
+         <my:TechDataDisplay />
+         <my:Section-Bar />
+         <my:TechDataModifFlag>0</my:TechDataModifFlag>
+         <my:IBTechDataCommentsLength>0</my:IBTechDataCommentsLength>
+         <my:IBTechDataCommissioning>0</my:IBTechDataCommissioning>
+      </my:IBTechData>
+   </my:TechDataSection>
+   <my:Application>
+      <my:Version>2.4</my:Version>
+      <my:NetworkLogin />
+      <my:ReportName>20180504_VWS_FSR_JUATE_749218_1.00.pdf</my:ReportName>
+      <my:SignaturesSection>
+         <my:SigningTechnician>LISBETH WIELANDT</my:SigningTechnician>
+         <my:DateSigningTechnician>2018-05-04</my:DateSigningTechnician>
+         <my:TechnicianID />
+         <my:TechnicianSignature xsi:nil="true" />
+         <my:SigningCustomer />
+         <my:CustomerSignature xsi:nil="true" />
+         <my:DateSigningCustomer xsi:nil="true" />
+      </my:SignaturesSection>
+      <my:BOComments />
+      <my:Parts_table />
+      <my:Parts_text />
+      <my:Logo_Display_Aquacare />
+      <my:Logo_Display_Kruger />
+      <my:BU_Choice>1</my:BU_Choice>
+   </my:Application>
+   <my:AssignmentSummary>
+      <my:ActualStartDate>04-05-2018</my:ActualStartDate>
+      <my:ActualEndDate>05-05-2018</my:ActualEndDate>
+      <my:AssignmentTechSumDetails>
+         <my:TechName>LISBETH WIELANDT</my:TechName>
+         <my:Date>04-05-2018</my:Date>
+         <my:AssignmentSummaryHourType>
+            <my:HourType>1</my:HourType>
+            <my:SumHours>8.00</my:SumHours>
+         </my:AssignmentSummaryHourType>
+      </my:AssignmentTechSumDetails>
+      <my:AssignmentTechSumDetails>
+         <my:TechName>LISBETH WIELANDT</my:TechName>
+         <my:Date>05-05-2018</my:Date>
+         <my:AssignmentSummaryHourType>
+            <my:HourType>1</my:HourType>
+            <my:SumHours>8.00</my:SumHours>
+         </my:AssignmentSummaryHourType>
+      </my:AssignmentTechSumDetails>
+   </my:AssignmentSummary>
+   <my:previewClicked>0</my:previewClicked>
+</my:MyFields>
